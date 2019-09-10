@@ -1,5 +1,5 @@
 body {
-    background-color: #4c3c2d;
+    background-color: #4c3c2e;
     color: #ffffff;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1.25em;
@@ -20,6 +20,12 @@ body {
 h1 {
     text-align: center;
 }
+
+/* Menu/Hours */
+ul li span {
+    font-weight: bold;
+}
+
 
 /* Social */
 .social li {
