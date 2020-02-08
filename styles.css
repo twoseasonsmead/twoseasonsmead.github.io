@@ -14,6 +14,7 @@ img#logo {
 #content {
     margin: 0 auto;
     width:80%;
+    max-width: 1171px; /* max width of header image */
 }
 
 h1 {
